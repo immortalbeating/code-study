@@ -1,0 +1,18 @@
+# Generated project guides and local model runs
+.code-study/
+.agent-runs/
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials; examples remain distributable
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Local diagnostic output
+*.log

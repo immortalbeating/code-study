@@ -1,0 +1,4 @@
+interface:
+  display_name: "代码与项目导学"
+  short_description: "从真实源码生成关系地图与交互式导读，沿功能路线学习语言写法和模块关联"
+  default_prompt: "使用 $code-study，结合当前项目生成关系地图、功能学习路线和源码精读页面，带我理解关键写法，并根据我的实际作答安排下一步。"
